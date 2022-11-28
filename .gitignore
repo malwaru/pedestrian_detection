@@ -2,3 +2,4 @@ data/*
 archive/*
 resources/*
 venv/*
+.ipynb_checkpoints/*
